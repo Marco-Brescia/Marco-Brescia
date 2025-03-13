@@ -4,7 +4,7 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 ---
 
 ### 🔗 Connect with me  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rcobre__/)
+[![rcobre__](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rcobre__/)
 
 ---
 
@@ -30,8 +30,7 @@ Since I joined GitHub, I've made **X** commits, opened **X** issues, submitted *
 
 ---
 
-### 🚀 Current Projects  
-- Working on my **personal website**  
+### 🚀 Current Projects   
 - Contributing to **CiviConnect**: A platform for civic engagement built with **Dart**  
 - Developing **SGARB-AI**: A deep learning system for artwork recognition  
 
