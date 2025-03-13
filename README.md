@@ -10,6 +10,7 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 
 ### 📊 GitHub Stats  
 Since I joined GitHub, I've made **X** commits, opened **X** issues, submitted **X** pull requests, and contributed to **X** public repositories.
+
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-Brescia&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Brescia&layout=compact&theme=dark)
 
