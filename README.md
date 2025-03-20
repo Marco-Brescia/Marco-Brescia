@@ -41,7 +41,7 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 
 ### 🚀 Current Projects   
 - Contributing to **CiviConnect**: A platform for civic engagement built with **Dart**  
-- Developing **SGARB-AI**: A deep learning system for artwork recognition  
+- Founder **SGARB-AI**: A deep learning system for artwork recognition  
 
 ---
 
