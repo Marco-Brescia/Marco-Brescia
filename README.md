@@ -25,6 +25,7 @@ Since I joined GitHub, I've made **X** commits, opened **X** issues, submitted *
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![Pascal](https://img.shields.io/badge/Pascal-1C1C1C?style=flat-square&logo=pascal&logoColor=white)
 
 #### 🛠 Tools  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)  
