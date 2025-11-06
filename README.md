@@ -39,9 +39,9 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 
 ---
 
-### 🚀 Current Projects   
-- Contributing to **CiviConnect**: A platform for civic engagement built with **Dart**  
-- Founder **SGARB-AI**: A deep learning system for artwork recognition  
+### 🚀 Current Projects  
+- 🧠 **[CATE-SNN](https://github.com/FLaTNNBio/CATE-SNN)** — working on **hyperparameter optimization** and **performance evaluation** of the *SCITE* model (*Siamese Contrastive Individual Treatment Effects Estimation*) for causal inference.  
+  Focused on improving estimation accuracy and analyzing correlations between model parameters and outcomes.
 
 ---
 
