@@ -33,6 +33,7 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![MLIR](https://img.shields.io/badge/MLIR-0A1A2F?style=flat-square&logo=llvm&logoColor=white)
 
 
 
