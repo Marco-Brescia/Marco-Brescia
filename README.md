@@ -40,9 +40,9 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 ---
 
 ### 🚀 Current Projects  
-- 🧠 **[CATE-SNN](https://github.com/FLaTNNBio/CATE-SNN)** — working on **hyperparameter optimization** and **performance evaluation** of the *SCITE* model (*Siamese Contrastive Individual Treatment Effects Estimation*) for causal inference.  
-  Focused on improving estimation accuracy and analyzing correlations between model parameters and outcomes.
-
+- 🧠 **[CATE-LLaM](https://github.com/Marco-Brescia/CATE-LLaM)**
+- 🧠 **[LittleButterfly Compiler](https://github.com/GiuseppeGambardella/LittleButterfly-Compiler)**
+  
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. 😄👋
