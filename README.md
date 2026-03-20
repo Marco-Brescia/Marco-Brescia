@@ -41,8 +41,7 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 ---
 
 ### 🚀 Current Projects  
-- 🧠 **[CATE-LLaM](https://github.com/Marco-Brescia/CATE-LLaM)**
-- 🧠 **[LittleButterfly Compiler](https://github.com/GiuseppeGambardella/LittleButterfly-Compiler)**
+- 🧠 **[CATE-LLaM]([https://github.com/Marco-Brescia/CATE-LLaM](https://github.com/FLaTNNBio/CATE-LLaM))**
   
 ---
 
