@@ -8,14 +8,6 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 
 ---
 
-### 📊 GitHub Stats
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-Brescia&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Brescia&layout=compact&theme=dark)
-
----
-
 
 ### 🛠️ Tech Stack  
 
