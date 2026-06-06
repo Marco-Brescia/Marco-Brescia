@@ -41,7 +41,8 @@ I'm **Marco Brescia**, a Computer Science student at **University of Salerno**, 
 ---
 
 ### 🚀 Current Projects  
-- 🧠 **[CATE-LLaM]((https://github.com/FLaTNNBio/CATE-LLaM))**
+- 🧠 **[N.A.P.O.L.I.](([https://github.com/FLaTNNBio/CATE-LLaM](https://github.com/Marco-Brescia/N.A.P.O.L.I.)))**
+- 🧠 **[Gotham](([https://github.com/FLaTNNBio/CATE-LLaM](https://github.com/GuardianMont/Gotham-City)))**
   
 ---
 
